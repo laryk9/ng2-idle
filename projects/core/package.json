@@ -1,5 +1,5 @@
 {
-  "name": "@ng-idle/core",
+  "name": "@sharegain/ng-idle-core",
   "version": "8.0.0-beta.4",
   "description": "A module for detecting and responding to the user becoming idle in Angular applications.",
   "repository": {
